@@ -1,7 +1,7 @@
 import requests
 
 # Get your API key from the NewsAPI website (https://newsapi.org/)
-API_KEY = "10e020b477b84fbea330a8b89a32ca89"
+API_KEY = "Insert your API key here"
 
 # Set the parameters for the API request
 params = {
